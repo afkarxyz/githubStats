@@ -99,7 +99,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3178c6;width: 55.157%;margin-right: 0.557%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 24.761%;margin-right: 0.505%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 10.902%;margin-right: 0.222%;" class="progress-item"></span><span style="background-color: #e34c26;width: 5.535%;margin-right: 0.113%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.393%;margin-right: 0.028%;" class="progress-item"></span><span style="background-color: #663399;width: 0.825%;margin-right: 0.000%;" class="progress-item"></span>
+<span style="background-color: #3178c6;width: 55.195%;margin-right: 0.558%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 24.778%;margin-right: 0.506%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 10.841%;margin-right: 0.221%;" class="progress-item"></span><span style="background-color: #e34c26;width: 5.539%;margin-right: 0.113%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.394%;margin-right: 0.028%;" class="progress-item"></span><span style="background-color: #663399;width: 0.826%;margin-right: 0.000%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -111,7 +111,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">TypeScript</span>
-<span class="percent">55.71%</span>
+<span class="percent">55.75%</span>
 </li>
 
 
@@ -120,7 +120,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Go</span>
-<span class="percent">25.27%</span>
+<span class="percent">25.28%</span>
 </li>
 
 
@@ -129,7 +129,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">JavaScript</span>
-<span class="percent">11.12%</span>
+<span class="percent">11.06%</span>
 </li>
 
 
